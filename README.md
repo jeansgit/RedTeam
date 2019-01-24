@@ -18,20 +18,48 @@
 
 [Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions](https://github.com/Veil-Framework/Veil)
 
+
+- - -
+
 [Ruby Exploitation(Rex) library for dealing with Powershell Scripts. This Library is designed to help create and manipulate powershell scripts for use with Metasploit exploits](https://github.com/rapid7/rex-powershell)
+
+- - -
 
 [利用dotnethooking技术来提供对利用powershell进行渗透测试的检测能力](https://github.com/tandasat/DotNetHooking/blob/master/Slides/CodeBlue_1110.pdf)
 
+- - -
+
 [Luckystrike - A PowerShell based utility for the creation of malicious Office macro documents](http://www.kitploit.com/2017/09/luckystrike-powershell-based-utility.html?m=1)
+
+- - -
 
 [如何设置一个钓鱼服务器](https://github.com/n0pe-sled/Postfix-Server-Setup)
 
+- - -
+
 [Red Team的基础设施构建](https://posts.specterops.io/designing-effective-covert-red-team-attack-infrastructure-767d4289af43)
+
+- - -
 
 [Reviewing the APT32 phishing malware](https://blog.xpnsec.com/apt32-phishing-malware/)
 
+- - -
+
 [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+
+- - -
 
 [alerting-detection-strategy-framework(ADS)：A framework for developing alerting and detection strategies for incident response](https://github.com/palantir/alerting-detection-strategy-framework)
 
+- - -
+
 [CobaltStrike-Toolset](https://github.com/360-A-Team/CobaltStrike-Toolset)
+
+- - -
+
+[RedTeam优秀团队(www.redteamsecure.com)](https://www.redteamsecure.com/red-teaming/)
+
+- - -
+
+[Watch A Red Team Engagement](https://youtu.be/pL9q2lOZ1Fw)
+
