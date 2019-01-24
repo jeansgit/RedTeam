@@ -1,5 +1,4 @@
-# RedTeam
-RedTeam资料收集整理
+# RedTeam资料收集整理
 
 
 ## RedTeam & BlueTeam
