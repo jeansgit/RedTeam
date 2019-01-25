@@ -70,4 +70,6 @@
 ![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam%E5%AE%9E%E6%88%981.png)
 
 - - -
+[A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
+- - -
