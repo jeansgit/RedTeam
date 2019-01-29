@@ -24,12 +24,12 @@
 
 - - -
 
-## 内网安全渗透总结（原文地址https://xz.aliyun.com/t/2354）
+## 内网安全渗透总结（ 原文地址https://xz.aliyun.com/t/2354 ）
 ![](https://github.com/jeansgit/RedTeam/blob/master/%E5%86%85%E7%BD%91%E5%AE%89%E5%85%A8/%E5%86%85%E7%BD%91%E5%AE%89%E5%85%A8%E6%B8%97%E9%80%8F%E6%80%BB%E7%BB%93.png)
 
 - - -
 
-## 红蓝军对抗相关的资料收集（原文地址https://xz.aliyun.com/t/1764）
+## 红蓝军对抗相关的资料收集（ 原文地址https://xz.aliyun.com/t/1764 ）
 
 [Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions](https://github.com/Veil-Framework/Veil)
 
