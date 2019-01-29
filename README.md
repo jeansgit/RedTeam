@@ -52,6 +52,12 @@
 
 - - -
 
+[关于RED TEAM By GnuSec](http://gnusec.org/2016/04/01/%E5%85%B3%E4%BA%8ERED-TEAM/)
+
+- - -
+
+
+
 [Red Team的基础设施构建](https://posts.specterops.io/designing-effective-covert-red-team-attack-infrastructure-767d4289af43)
 
 - - -
