@@ -4,30 +4,32 @@
 
 
 ## RedTeam & BlueTeam
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam.jpg)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteam.jpg)
 
 
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteamandblueteam.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteamandblueteam.png)
 
 - - -
 ## RedTeam | BlueTeam | PurpleTeam
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/red-blue-purple.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/red-blue-purple.png)
 
 - - -
 
 ## RedTeam概念
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/RED_TEAM.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/RED_TEAM.png)
 
 - - -
 
 ## RedTeam&渗透测试
 
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam%E5%92%8C%E6%B8%97%E9%80%8F.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteam%E5%92%8C%E6%B8%97%E9%80%8F.png)
+
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/pentest-and-redteam.jpg)
 
 - - -
 
 ## RedTeam解决方案
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteam%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png)
 
 - - -
 
@@ -94,8 +96,8 @@
 
 [Watch A Red Team Engagement](https://youtu.be/pL9q2lOZ1Fw)
 
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam%E5%AE%9E%E6%88%982.png)
-![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/redteam%E5%AE%9E%E6%88%981.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteam%E5%AE%9E%E6%88%981.png)
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteam%E5%AE%9E%E6%88%982.png)
 
 - - -
 [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
