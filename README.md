@@ -10,6 +10,11 @@
 ![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/redteamandblueteam.png)
 
 - - -
+## RedTeam 作战手册 （https://github.com/klionsec/RedTeamManual）
+
+![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/RedTeamManula.jpg)
+
+- - -
 ## RedTeam | BlueTeam | PurpleTeam
 ![](https://github.com/jeansgit/RedTeam/blob/master/%E7%BA%A2%E8%93%9D%E5%AF%B9%E6%8A%97%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/red-blue-purple.png)
 
